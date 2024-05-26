@@ -1,0 +1,91 @@
+/* Define a modern and appealing color palette */
+$primary-color: #3498db;  // A vibrant blue, good for primary actions
+$background-color: #ecf0f1; // Light gray for a clean and unobtrusive background
+$text-color: #2c3e50;  // Dark gray-blue, excellent for readability
+$nav-background: #2980b9;  // Slightly darker blue for navigation
+$footer-background: #2c3e50; // Even darker shade for footer for contrast
+$link-hover-color: #f39c12;  // Vibrant orange for hover states
+
+/* Base styles */
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: $background-color;
+  color: $text-color;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+nav {
+  background-color: $nav-background;
+  padding: 0 20px;
+
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+
+    li {
+      padding: 10px;
+
+      a {
+        color: white;
+        text-decoration: none;
+        transition: color 0.3s;
+
+        &:hover {
+          color: $link-hover-color;
+        }
+      }
+    }
+  }
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+}
+
+footer {
+  background-color: $footer-background;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+
+  a {
+    color: #bdc3c7;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+
+    li {
+      margin: 5px 0; // Reduce margin for vertical stacking
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  nav {
+    padding: 10px 0; // Reduce padding in small devices
+  }
+  footer {
+    padding: 10px 0;
+  }
+}

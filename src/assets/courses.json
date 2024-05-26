@@ -1,0 +1,165 @@
+{
+    "courses": [
+      {
+        "id": 101,
+        "title": "Introduction to French",
+        "description": "Learn basic French, including greetings, common phrases, and grammar.",
+        "instructor": "John Doe",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 102,
+        "title": "Intermediate Spanish",
+        "description": "Build on your basic knowledge of Spanish and expand your vocabulary.",
+        "instructor": "Jane Smith",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 103,
+        "title": "Advanced German",
+        "description": "Deepen your understanding of German grammar and complex phrases.",
+        "instructor": "Alice Johnson",
+        "duration": "15 weeks",
+        "difficulty": "Advanced"
+      },
+      {
+        "id": 104,
+        "title": "Introduction to Italian",
+        "description": "Learn basic Italian, including greetings, common phrases, and grammar.",
+        "instructor": "Bob Brown",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 105,
+        "title": "Intermediate Chinese",
+        "description": "Build on your basic knowledge of Chinese and expand your vocabulary.",
+        "instructor": "Carol White",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 106,
+        "title": "Advanced Japanese",
+        "description": "Deepen your understanding of Japanese grammar and complex phrases.",
+        "instructor": "David Green",
+        "duration": "15 weeks",
+        "difficulty": "Advanced"
+      },
+      {
+        "id": 107,
+        "title": "Introduction to Russian",
+        "description": "Learn basic Russian, including greetings, common phrases, and grammar.",
+        "instructor": "John Doe",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 108,
+        "title": "Intermediate Arabic",
+        "description": "Build on your basic knowledge of Arabic and expand your vocabulary.",
+        "instructor": "Jane Smith",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 109,
+        "title": "Advanced French",
+        "description": "Deepen your understanding of French grammar and complex phrases.",
+        "instructor": "Alice Johnson",
+        "duration": "15 weeks",
+        "difficulty": "Advanced"
+      },
+      {
+        "id": 110,
+        "title": "Introduction to Spanish",
+        "description": "Learn basic Spanish, including greetings, common phrases, and grammar.",
+        "instructor": "Bob Brown",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 111,
+        "title": "Intermediate German",
+        "description": "Build on your basic knowledge of German and expand your vocabulary.",
+        "instructor": "Carol White",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 112,
+        "title": "Advanced Italian",
+        "description": "Deepen your understanding of Italian grammar and complex phrases.",
+        "instructor": "David Green",
+        "duration": "15 weeks",
+        "difficulty": "Advanced"
+      },
+      {
+        "id": 113,
+        "title": "Introduction to Chinese",
+        "description": "Learn basic Chinese, including greetings, common phrases, and grammar.",
+        "instructor": "John Doe",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 114,
+        "title": "Intermediate Japanese",
+        "description": "Build on your basic knowledge of Japanese and expand your vocabulary.",
+        "instructor": "Jane Smith",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 115,
+        "title": "Advanced Russian",
+        "description": "Deepen your understanding of Russian grammar and complex phrases.",
+        "instructor": "Alice Johnson",
+        "duration": "15 weeks",
+        "difficulty": "Advanced"
+      },
+      {
+        "id": 116,
+        "title": "Introduction to Arabic",
+        "description": "Learn basic Arabic, including greetings, common phrases, and grammar.",
+        "instructor": "Bob Brown",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 117,
+        "title": "Intermediate French",
+        "description": "Build on your basic knowledge of French and expand your vocabulary.",
+        "instructor": "Carol White",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 118,
+        "title": "Advanced Spanish",
+        "description": "Deepen your understanding of Spanish grammar and complex phrases.",
+        "instructor": "David Green",
+        "duration": "15 weeks",
+        "difficulty": "Advanced"
+      },
+      {
+        "id": 119,
+        "title": "Introduction to German",
+        "description": "Learn basic German, including greetings, common phrases, and grammar.",
+        "instructor": "John Doe",
+        "duration": "10 weeks",
+        "difficulty": "Beginner"
+      },
+      {
+        "id": 120,
+        "title": "Intermediate Italian",
+        "description": "Build on your basic knowledge of Italian and expand your vocabulary.",
+        "instructor": "Jane Smith",
+        "duration": "12 weeks",
+        "difficulty": "Intermediate"
+      }
+    ]
+  }
+  

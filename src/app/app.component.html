@@ -1,0 +1,22 @@
+<!-- app.component.html -->
+<div class="app-container">
+  <nav>
+    <ul class="nav-links">
+      <li><a routerLink="/courses">Home</a></li>
+      <li><a routerLink="/courses">Courses</a></li>
+      <li><a routerLink="/dashboard">Dashboard</a></li>
+    </ul>
+  </nav>
+  <main>
+    <router-outlet></router-outlet> <!-- Where routed components are displayed -->
+  </main>
+  <footer>
+    <div class="footer-content">
+      <p>© 2024 Language Learning Platform</p>
+      <div class="footer-links">
+        <a href="https://www.example.com/privacy">Privacy Policy</a> | 
+        <a href="https://www.example.com/terms">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+</div>
