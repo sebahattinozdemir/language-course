@@ -17,7 +17,7 @@ export class CourseDetailsComponent implements OnInit {
 
   ngOnInit(): void {
     this.route.params.subscribe(params => {
-      const courseId = +params['id']; // Get the course ID from route parameters
+      const courseId = +params['id'];
       this.dataService.getCourses().subscribe(data => {
         this.course = data.courses.find((c:Course) => c.id === courseId);
       });

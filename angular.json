@@ -49,6 +49,7 @@
                   "maximumError": "4kb"
                 }
               ],
+              "aot": true,
               "outputHashing": "all"
             },
             "development": {
