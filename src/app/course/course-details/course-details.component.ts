@@ -8,7 +8,7 @@ import { DataService } from 'src/app/shared/services/data.service';
   styleUrls: ['./course-details.component.scss']
 })
 export class CourseDetailsComponent implements OnInit {
-  course: any;
+  course: Course | undefined;
 
   constructor(
     private route: ActivatedRoute,
